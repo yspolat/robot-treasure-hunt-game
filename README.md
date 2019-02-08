@@ -30,7 +30,7 @@ Class Diagram
 
 
 ------------------------------
-Example Game:
+Example Game
 
 Please enter the board size:
 5
@@ -74,6 +74,9 @@ You cannot go three, there is a House
 Robot found the treasure!
 
 You lost the game
+
+
+
 
 Have fun!
 

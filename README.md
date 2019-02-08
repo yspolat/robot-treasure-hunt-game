@@ -20,7 +20,7 @@ it wants to move
 ------------------------------
 Imaginary Board
 
-![alt text](https://github.com/yspolat/robot-treasure-hunt-game/blob/master/imaginary_board.png?raw=true)
+![alt text](https://github.com/yspolat/robot-treasure-hunt-game/blob/master/imaginary_board_v2.png?raw=true)
 
 ------------------------------
 Class Diagram

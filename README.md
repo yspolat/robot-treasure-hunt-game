@@ -80,4 +80,4 @@ You lost the game
 
 Have fun!
 
-Reference: Altuğ Tanaltay/Sabanci University
+<b>Reference: Altuğ Tanaltay/Sabanci University</b>
